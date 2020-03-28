@@ -14,7 +14,7 @@
 	 for (auto c: cipher)
 		if(c != ' ' && c != 'z') 
 		{
-			char d = c + 3;
+			char d = c + 1;
 		 	cout<<d;
 		  }
 		
